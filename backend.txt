@@ -4,7 +4,4 @@ The backend is the server-side of a website or app. It’s everything that happe
 Storing and retrieving data (like user accounts, products, orders).
 
 Handling business logic (like calculating total price, processing payments).
-
 backend deveolper.
-
-this is mad by me in cloud 
