@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+body {
+  padding-top: 70px;
+}
+
+
+.first_image{
+    width:25%;
+    padding:10px;
+    border-radius:12px;
+}
+
+.second-image{
+    width:110%;
+    height:95%;
+    background-image: cover;
+}
+.first-para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color:#783004;
+    padding:5px;
+}
+
+.first-para-1{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 350;
+    color:#050505;
+    padding:5px;
+}
+
+
+.image-card-first{
+  height: 220px;
+  width: 100%;
+  object-fit: contain;
+  background-color: #f5f5f5;
+
+}
+
+.span-change{
+    color:green;
+    background-color: #d5f5db;
+    
+}
+
+.card-para{
+    font-size: 22px;
+    font-weight:500;
+    color:black;
+}
+
+.button_change{
+    width:4vw;
+    height:5vh;
+    border-radius:2px;
+   text-align: center;
+   font-size:5px;
+}
+
+
+.about_us_card{
+    background-color: #c4f2b6;
+    border-radius: 15px;
+    width:45%;
+    padding: 25px;
+    height: 30%;
+   
+}
+
+.about_us_heading{
+    font-family: sans-serif;
+    font-size:25px;
+    color:#050505;
+}
+
+.about_us_paragraph{
+    font-family: sans-serif;
+    font-size:20px;
+    color:#3a3939;
+}
+
+.footer_images{
+    width:33%;
+    height:30%;
+    
+}
