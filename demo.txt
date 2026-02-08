@@ -6,3 +6,9 @@ Our purpose of life is to become a good person for ourselves and infront of GOD.
 I like to code in python, because i can easily adobt for that.
 hello all it's my pleasure to me you.
 manisha manavalan
+
+itHub is a cloud platform to host Git repositories.
+
+Think of it as online storage for your code with version control.
+
+You can share code, collaborate, track changes, and manage projects.
