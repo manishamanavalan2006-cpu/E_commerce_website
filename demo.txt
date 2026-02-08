@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+MANISHA MANAVALAN
+>>>>>>> e8c1b9690555be754795e0b313c55c149367e2f2
 hello my name is manisha manavalan.
 i love coding
 i passionate about writing code and i am good public speaker.
